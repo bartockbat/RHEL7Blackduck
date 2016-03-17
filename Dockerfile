@@ -1,4 +1,4 @@
-FROM registry.access.redhat.com/rhel7.1 
+FROM registry.access.redhat.com/rhel7:latest
 
 MAINTAINER Ton Schoots <ton@maiastra.com>
 
